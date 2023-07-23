@@ -173,6 +173,10 @@ pyrightconfig.json
 ### Vuejs ###
 # Recommended template: Node.gitignore
 
-node_modules/
-npm-debug.log
-yarn-error.log
+*/node_modules/
+*/npm-debug.log
+*/yarn-error.log
+*/package-lock.json
+*/package.json
+
+.idea
