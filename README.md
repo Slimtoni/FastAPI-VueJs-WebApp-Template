@@ -1,14 +1,15 @@
-# FastAPI-React Template
+# FastApi-VueJs Template
 
-## Backend
+## Backend FastApi
 Install requirements with:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run:
-python main.py
+`python main.py`
 
-## Frontend
+## Frontend VueJs
+Install requirements:
+`npm install`
 
-npm install
-
-npm run serve
+Run:
+`npm run serve`
